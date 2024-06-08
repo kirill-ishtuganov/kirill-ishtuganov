@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-I am currently completing a professional training program at Hexlet. Throughout this journey, I have undertaken various projects, gaining expertise in Java Core, Gradle, Git, unit testing, CI, TDD, design patterns, data structures, OOP principles, as well as HTML, CSS and HTTP. My extensive experience in working with people allows me to approach problem-solving from different perspectives.
+Passionate Java developer with experience in creating efficient and structured systems using OOP principles. Experienced in deep immersion into every detail required for a project. I am constantly developing and falling in love with new development technologies. I strive to work on commercial projects and develop with professionals in the field of Java development.
+- I am taking the course "Hexlet: Java developer"
+- Experience in active sales with VIP clients taught me how to communicate correctly with people, which greatly helps me in my new profession
+- I am passionate about studying the world of IT technologies
+- I strive to improve my qualifications, expand my professional horizons, and am independent in mastering new knowledge
 
 ## Tools & Technologies
 
