@@ -21,14 +21,3 @@ Passionate Java developer with experience in creating efficient and structured s
 
 ### My CV
 On [Hexlet](https://cv.hexlet.io/ru/resumes/3801)
-
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/kirill-ishtuganov"><img src="https://github-readme-stats.vercel.app/api?username=kirill-ishtuganov&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="kirill-ishtuganov's GitHub stats" /></a>
-
-<a href="http://www.github.com/kirill-ishtuganov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kirill-ishtuganov&stroke=ffffff&background=0f172a&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/kirill-ishtuganov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirill-ishtuganov&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
