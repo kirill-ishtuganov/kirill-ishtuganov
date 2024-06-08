@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+I am currently completing a professional training program at Hexlet. Throughout this journey, I have undertaken various projects, gaining expertise in Java Core, Gradle, Git, unit testing, CI, TDD, design patterns, data structures, OOP principles, as well as HTML, CSS and HTTP. My extensive experience in working with people allows me to approach problem-solving from different perspectives.
 
 ## Tools & Technologies
 
